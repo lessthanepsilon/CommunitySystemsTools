@@ -1,0 +1,8 @@
+# Build and Release Folders
+bin/
+bin/Debug
+bin/Release
+
+
+# Other files and folders
+*.suo
